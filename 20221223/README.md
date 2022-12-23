@@ -1,0 +1,1 @@
+The challenges can all be found here https://edabit.com/challenges
