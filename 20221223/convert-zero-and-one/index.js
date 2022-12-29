@@ -19,4 +19,4 @@ function textToNumberBinary(str) {
     }
 }
 
-console.log(textToNumberBinary("one zero zero zero one one zero one zero zero zero zero zero one zero one"))
+console.log(textToNumberBinary("zeawdawd awdwadawd one zero one one zero one zero one zero"))
